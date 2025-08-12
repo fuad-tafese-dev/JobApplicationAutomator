@@ -1,0 +1,7 @@
+selenium>=4.0.0
+python-dotenv
+spacy>=3.0.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+undetected-chromedriver>=3.5.0
+fake-useragent>=1.1.0

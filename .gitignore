@@ -1,0 +1,6 @@
+# .gitignore
+venv/
+.env
+screenshots/
+logs/*.log
+__pycache__/
